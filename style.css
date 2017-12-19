@@ -1,0 +1,21 @@
+h1{font-size: 30px;
+	font-style: bold;
+	text-align: center;}
+table, th, td{
+	margin: 0px auto;
+	border-collapse: collapse;
+}
+
+th,td{text-align: left;
+	padding: 15px;}
+
+th{background-color: #28A946;}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+} 
+
+tr:hover{
+	background-color: #DDEFFE;
+	color: white;
+}
